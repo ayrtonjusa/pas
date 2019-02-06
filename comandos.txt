@@ -1,0 +1,11 @@
+Para agregar nuevos archivos
+git add .
+Para agregarle comentario
+git commit -m "Comentario"
+para subirlo al repositorio 
+git push -u origin master
+--------------------------
+Recuperas toda la informacion
+git pull
+-------
+git fetch
